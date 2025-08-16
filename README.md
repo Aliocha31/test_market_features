@@ -1,5 +1,7 @@
 # Data Features Pipeline
 
+Work in Progress....
+
 Ce projet Python propose un pipeline pour extraire, transformer et analyser des features à partir de jeux de données financières issues de l'API de yahoo finance.
 
 ## Fonctionnalités
