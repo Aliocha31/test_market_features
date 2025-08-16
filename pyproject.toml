@@ -1,7 +1,7 @@
 [project]
 name = "data-features-pipeline"
 version = "0.1.0"
-description = "Add your description here"
+description = "Test pour manipuler les données yahoo finance"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
